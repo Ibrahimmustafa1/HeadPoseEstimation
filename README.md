@@ -1,4 +1,4 @@
-# Head Pose Estimation Project README
+# Head Pose Estimation Project
 
 ## Overview
 
