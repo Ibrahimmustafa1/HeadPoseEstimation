@@ -18,7 +18,7 @@ I have used the AFLW2000 dataset, which contains images of faces along with anno
 
 4. **Hyperparameter Tuning**: Using techniques like grid search or randomized search, I optimize the hyperparameters of my models to improve performance.
 
-5. **Model Evaluation**: I evaluate the trained models using metrics such as Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE) to assess their accuracy in predicting head poses.
+5. **Model Evaluation**: I evaluate the trained models using metrics such as Root Mean Squared Error (RMSE) to assess their accuracy in predicting head poses.
 
 6. **Model Selection**: After rigorous evaluation, I identify the SVR model as the best-performing model for head pose estimation.
 
