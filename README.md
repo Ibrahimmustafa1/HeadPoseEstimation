@@ -1,12 +1,6 @@
 # Head Pose Estimation Project
 
-
-
-
-https://github.com/Ibrahimmustafa1/HeadPoseEstimation/assets/85252957/371cc723-1c30-4080-978f-edb5cbab3a5f
-
-
-
+[Post_2.webm](https://github.com/Ibrahimmustafa1/HeadPoseEstimation/assets/85252957/6ffdc0a0-d700-4145-a6dc-1a268c969f9a)
 
 ## Overview
 
