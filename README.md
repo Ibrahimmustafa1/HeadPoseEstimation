@@ -2,7 +2,9 @@
 
 
 
-https://github.com/Ibrahimmustafa1/HeadPoseEstimation/assets/85252957/05972696-7197-466c-b284-0fa7815e57f4
+
+https://github.com/Ibrahimmustafa1/HeadPoseEstimation/assets/85252957/371cc723-1c30-4080-978f-edb5cbab3a5f
+
 
 
 
