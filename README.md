@@ -1,5 +1,7 @@
 # Head Pose Estimation Project
 
+
+
 ## Overview
 
 This project focuses on head pose estimation using the AFLW2000 dataset. The aim is to predict the yaw, pitch, and roll angles of a person's head from images or videos. I leverage the Mediapipe library for extracting facial landmarks and utilize machine learning models to predict head poses.
